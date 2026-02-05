@@ -1,13 +1,19 @@
 @import "tailwindcss";
 
 :root {
-  --background: #030712;
+  --background: #0A0A0F;
   --foreground: #f3f4f6;
+  --allium-purple: #BE59C0;
+  --allium-pink: #F9EEF9;
+  --allium-purple-dim: rgba(190, 89, 192, 0.15);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-allium-purple: var(--allium-purple);
+  --color-allium-pink: var(--allium-pink);
+  --color-allium-purple-dim: var(--allium-purple-dim);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }

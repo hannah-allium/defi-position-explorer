@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <circle cx="64" cy="64" r="64" fill="#000"/>
+  <defs>
+    <linearGradient id="solGrad" x1="20" y1="100" x2="108" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9945FF"/>
+      <stop offset="0.5" stop-color="#19FB9B"/>
+      <stop offset="1" stop-color="#00D1FF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(24,32) scale(0.625)">
+    <path d="M16.3 83.4L29.4 97.7C30.1 98.5 31.1 99 32.1 99H120.3C121.8 99 122.6 97.2 121.5 96.1L108.4 81.8C107.7 81 106.7 80.5 105.7 80.5H17.5C16 80.5 15.2 82.3 16.3 83.4Z" fill="url(#solGrad)"/>
+    <path d="M16.3 30.3L29.4 44.6C30.1 45.4 31.1 45.9 32.1 45.9H120.3C121.8 45.9 122.6 44.1 121.5 43L108.4 28.7C107.7 27.9 106.7 27.4 105.7 27.4H17.5C16 27.4 15.2 29.2 16.3 30.3Z" fill="url(#solGrad)"/>
+    <path d="M108.4 56.5L95.3 42.2C94.6 41.4 93.6 40.9 92.6 40.9H4.4C2.9 40.9 2.1 42.7 3.2 43.8L16.3 58.1C17 58.9 18 59.4 19 59.4H107.2C108.7 59.4 109.5 57.6 108.4 56.5Z" fill="url(#solGrad)"/>
+  </g>
+</svg>
